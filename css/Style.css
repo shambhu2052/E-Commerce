@@ -1,0 +1,14 @@
+body {
+  background: rgb(194, 180, 180);
+}
+
+.top {
+  text-align: left;
+}
+.top a {
+  color: black;
+  text-decoration: none;
+  padding: 10px 10px;
+  border-right: 1px solid red;
+  border-left: 1px solid red;
+}/*# sourceMappingURL=Style.css.map */
